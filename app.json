@@ -1,14 +1,14 @@
 {
-    "name": "YoneRobot",
+    "name": "DevBot",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
        "anime",
        "group",
        "manager",
-       "yone"
+       "Dev"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/Samarth-Dubey/DevManagementRobot",
  "addons": [
     {
        "options": {
