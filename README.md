@@ -1,7 +1,3 @@
-<p align="center">    
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
-
 <p align="center">
   <img src="https://telegra.ph/file/c3aed0bc0eb153a9ef0c6.jpg">
 </p>
