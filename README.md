@@ -13,8 +13,8 @@
   <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
 </p>
 
-# YoneRobot
-Me On Telegram [✨Dev✨](https://telegram.me/DevGroup_Robot)
+# DevBot
+Me On Telegram [✨Dev✨](https://t.me/DevGroup_Robot)
 
 ## How To Host
 The easiest way to deploy this Bot
