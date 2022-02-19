@@ -3,7 +3,7 @@
 </p>
 
 # DevBot
-Me On Telegram [✨Dev✨](https://t.me/DevGroup_Robot)
+Me On Telegram [✨Dev✨](https://t.me/DevManager_Robot)
 
 ## How To Host
 The easiest way to deploy this Bot
