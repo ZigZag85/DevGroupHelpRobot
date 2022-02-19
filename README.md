@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/c3aed0bc0eb153a9ef0c6.jpg">
 </p>
 
-# Dev Group-Help Bot [BETA]
+### Dev Group-Help Bot [BETA]
 Find Me On Telegram [✨Dev✨](https://t.me/DevManager_Robot)
 
 ### NOTE 
